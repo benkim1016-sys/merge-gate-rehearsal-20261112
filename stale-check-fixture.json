@@ -1,0 +1,4 @@
+{
+  "scenario": "previous-commit-check-must-not-satisfy-current-commit",
+  "synthetic": true
+}
